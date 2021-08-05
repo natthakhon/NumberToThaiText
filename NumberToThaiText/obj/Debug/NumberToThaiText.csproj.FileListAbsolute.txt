@@ -1,0 +1,6 @@
+C:\Users\nattl\source\repos\NumberToThaiText\NumberToThaiText\bin\Debug\NumberToThaiText.dll
+C:\Users\nattl\source\repos\NumberToThaiText\NumberToThaiText\bin\Debug\NumberToThaiText.pdb
+C:\Users\nattl\source\repos\NumberToThaiText\NumberToThaiText\obj\Debug\NumberToThaiText.csproj.CoreCompileInputs.cache
+C:\Users\nattl\source\repos\NumberToThaiText\NumberToThaiText\obj\Debug\NumberToThaiText.dll
+C:\Users\nattl\source\repos\NumberToThaiText\NumberToThaiText\obj\Debug\NumberToThaiText.pdb
+C:\Users\nattl\source\repos\NumberToThaiText\NumberToThaiText\obj\Debug\NumberToThaiText.csproj.AssemblyReference.cache
